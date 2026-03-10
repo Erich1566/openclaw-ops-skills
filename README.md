@@ -145,15 +145,6 @@ openclaw security audit --fix
 openclaw status --all --deep
 ```
 
-## Model Recommendations (Feb 2026)
-
-| Model | Agent Quality | Tool Calling | Cost | Use Case |
-|-------|---------------|--------------|------|----------|
-| Sonnet 4.6 | Excellent | Reliable | $3/$15M | Daily operations |
-| Opus 4.6 | Excellent | Reliable | $15/$75M | Deep reasoning |
-| Kimi K2.5 | Good | Reliable | ~$0.6/$2M | Budget tasks |
-| MiniMax M2.5 | Good | Reliable | $0.3/$1.20M | Cheapest option |
-| GPT-5.3-Codex | Excellent | Reliable | Pro sub | Code writing |
 
 ## Installation Order
 
